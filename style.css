@@ -1,0 +1,92 @@
+
+
+body {
+    background: blueviolet;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+nav ul button{
+    float: right;
+    margin: 10px;
+}
+
+h2{
+    color: #040404;  
+    
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blanchedalmond;
+    font-size: 50px;
+}
+
+nav{
+    background: #13ECEF;
+    height: 50px;
+}
+
+.contacto{
+    border-radius: 45px;
+    background: #EF13CA;
+    color: rgb(248, 242, 234);
+}
+
+#seccionppal{
+    margin: 30px;
+
+}
+
+.imgmujerprogramando{
+    margin: 50px;
+    padding-left: 700px;
+    padding-top: 10px;
+    }
+
+.presentacion{
+    margin: 50px;
+}
+
+.cards {
+    justify-content: center;
+    display: flex;
+    width: 250px;
+    height: 280px;
+    margin: 20px;
+}
+
+.comillas {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    padding-left: 100px;
+}
+
+.cita {
+    background: #DFD6D4;
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+
+.texto {
+    margin: 400px;
+    padding-left: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+#autor{
+    font-size: 20px;
+}
+
+.misproyectos{
+    background:#DFD6D4
+    
+}
+
+.titulosecundario{
+    text-align: center;
+}
+
